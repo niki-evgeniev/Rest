@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import rest.rest2.Entity.ToDo;
 import rest.rest2.Entity.ToDoDTO;
 import rest.rest2.Service.ToDoService;
 
